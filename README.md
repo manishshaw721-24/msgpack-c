@@ -1,8 +1,4 @@
 
-# MessagePack
-
-MessagePack implementation for C and C++ / msgpack.org[C/C++]
-
 # Installation and Usage
 
 Use the zopen package manager ([QuickStart Guide](https://zopen.community/#/Guides/QuickStart)) to install:
@@ -28,6 +24,3 @@ See the [zopen porting guide](https://zopen.community/#/Guides/Porting) for more
 
 
 # Troubleshooting
-
-# Contributing
-Contributions are welcome! Please follow the [zopen contribution guidelines](https://github.com/zopencommunity/meta/blob/main/CONTRIBUTING.md).
