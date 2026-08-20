@@ -1,4 +1,3 @@
-[![Automatic version updates](https://github.com/zopencommunity/MessagePackport/actions/workflows/bump.yml/badge.svg)](https://github.com/ZOSOpenTools/MessagePackport/actions/workflows/bump.yml)
 
 # MessagePack
 
